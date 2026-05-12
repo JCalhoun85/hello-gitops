@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: hello-gitops
-        image: megamansdog/hello-gitops:v1
+        image: megamansdog/hello-gitops:latest
         ports:
         - containerPort: 80
