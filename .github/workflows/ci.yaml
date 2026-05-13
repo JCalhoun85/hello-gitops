@@ -27,4 +27,4 @@ jobs:
       with:
         context: ./app
         push: true
-        tags: JCalhoun85/hello-gitops:latest
+        tags: megamansdog/hello-gitops:latest
